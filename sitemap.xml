@@ -1,230 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/blog.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-001-1umdsar.html</loc>
-    <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-001-dbt5mo.html</loc>
-    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-002-1pfxuve.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/compare-001-1pfxuve.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0046.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0047.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0048.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0049.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0050.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0051.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0052.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0053.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0054.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0055.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0056.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0057.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0058.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0059.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0060.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0328.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0329.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0330.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0331.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0332.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0232.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0233.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0234.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0235.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0236.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0237.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0238.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0239.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0240.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0241.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0242.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
