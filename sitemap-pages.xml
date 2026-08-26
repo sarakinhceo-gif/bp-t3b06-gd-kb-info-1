@@ -21,11 +21,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-001-dbt5mo.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-002-1pfxuve.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -36,12 +31,52 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0046.html</loc>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0047.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0047.html</loc>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0329.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0330.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0332.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0233.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0236.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0241.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/checklist-001-dbt5mo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260719-0046.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -116,32 +151,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0329.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0330.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0331.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260721-0332.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0232.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0233.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -152,11 +167,6 @@
   </url>
   <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0235.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0236.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -181,22 +191,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0241.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-zone.namanavi.com/posts/gemini-coverage-20260722-0242.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-zone.namanavi.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
